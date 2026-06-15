@@ -104,4 +104,4 @@ the value of `t` are stored directly in the sliders of that definition — open
 ## Citation and license
 
 - Citation: _[author / venue / DOI to be added upon publication]_
-- License: _[choose, e.g. MIT for the code and CC BY 4.0 for the design output]_
+- License: _[MIT for the code and CC BY 4.0 for the design output]_
