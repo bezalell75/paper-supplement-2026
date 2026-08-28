@@ -1,0 +1,23 @@
+{
+  "title": "Time-parametric Gerstner Wave Engine for Digital Craft",
+  "upload_type": "software",
+  "description": "Grasshopper and GhPython definitions for a generative wave-surface system that bridges computational design with physical fabrication. The engine extends the classical Gerstner wave equation with multi-octave layering distributed by the golden angle, domain warping, and a continuous time variable t treated as an independent design variable rather than a playback control. Supplementary material for the SIGraDi 2026 paper \"Algorithmic Waves and Physical Moiré: Time-parametric Generative Design and the Dialectic of Digital Craftsmanship\".",
+  "creators": [
+    {
+      "name": "Min, Bogki",
+      "affiliation": "Seoul National University",
+      "orcid": "0009-0004-7410-8564"
+    }
+  ],
+  "license": "mit",
+  "keywords": [
+    "Gerstner Wave",
+    "Digital Craftsmanship",
+    "Time-Parametric Generative Design",
+    "Hybrid Fabrication",
+    "Physical Moiré",
+    "Grasshopper",
+    "GhPython",
+    "CNC Machining"
+  ]
+}
